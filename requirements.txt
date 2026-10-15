@@ -1,0 +1,7 @@
+# Sourang File Integrity Checker - Dependencies
+# Note: The core cryptographic engine, Desktop Tkinter GUI, and 3D Web GUI
+# run out of the box using Python's standard library (hashlib, pathlib, http.server, tkinter).
+
+# Terminal UI enhancements (optional for high-res color tables & status panels)
+rich>=13.0.0
+colorama>=0.4.6

@@ -1,0 +1,80 @@
+{
+  "generator": "Sourang File Integrity Checker",
+  "version": "1.0.0",
+  "generated_at": "2026-10-13T11:54:10.144722+00:00",
+  "target_directory": "C:\\Users\\Sourang_official\\OneDrive\\Documents\\codenova\\Project 3\\sample_test_vault",
+  "hash_algorithm": "SHA256",
+  "total_files": 6,
+  "total_bytes": 856,
+  "total_size_formatted": "856 B",
+  "error_count": 0,
+  "scan_duration_seconds": 0.0265,
+  "files": {
+    "auth_secrets.env": {
+      "relative_path": "auth_secrets.env",
+      "absolute_path": "C:\\Users\\Sourang_official\\OneDrive\\Documents\\codenova\\Project 3\\sample_test_vault\\auth_secrets.env",
+      "size_bytes": 200,
+      "size_formatted": "200 B",
+      "modified_time": 1791892450.0938678,
+      "modified_time_iso": "2026-10-13T11:54:10.093868+00:00",
+      "sha256": "a6bd0d472b1ce0a9558f1e1c045e3599e0407d44453fab6345a3e67eb5f98216",
+      "status": "INTACT",
+      "error": null
+    },
+    "config.json": {
+      "relative_path": "config.json",
+      "absolute_path": "C:\\Users\\Sourang_official\\OneDrive\\Documents\\codenova\\Project 3\\sample_test_vault\\config.json",
+      "size_bytes": 177,
+      "size_formatted": "177 B",
+      "modified_time": 1791892450.0963879,
+      "modified_time_iso": "2026-10-13T11:54:10.096388+00:00",
+      "sha256": "cae1add84aa2accf2e4c92bb39b25040801fcba59764133167f678b174b0cc0d",
+      "status": "INTACT",
+      "error": null
+    },
+    "unauthorized_backdoor.sh": {
+      "relative_path": "unauthorized_backdoor.sh",
+      "absolute_path": "C:\\Users\\Sourang_official\\OneDrive\\Documents\\codenova\\Project 3\\sample_test_vault\\unauthorized_backdoor.sh",
+      "size_bytes": 93,
+      "size_formatted": "93 B",
+      "modified_time": 1791892445.996292,
+      "modified_time_iso": "2026-10-13T11:54:05.996292+00:00",
+      "sha256": "a490e9680822610f6683c47626e41728c12529467f42eff4272c06bbf3706b5c",
+      "status": "INTACT",
+      "error": null
+    },
+    "binaries/security_token.dat": {
+      "relative_path": "binaries/security_token.dat",
+      "absolute_path": "C:\\Users\\Sourang_official\\OneDrive\\Documents\\codenova\\Project 3\\sample_test_vault\\binaries\\security_token.dat",
+      "size_bytes": 32,
+      "size_formatted": "32 B",
+      "modified_time": 1791892450.104306,
+      "modified_time_iso": "2026-10-13T11:54:10.104306+00:00",
+      "sha256": "b0a7c737dc0fdc703d7acabe16d63e869442c29bf3f256fefceaae5de0d99b3d",
+      "status": "INTACT",
+      "error": null
+    },
+    "database/schema.sql": {
+      "relative_path": "database/schema.sql",
+      "absolute_path": "C:\\Users\\Sourang_official\\OneDrive\\Documents\\codenova\\Project 3\\sample_test_vault\\database\\schema.sql",
+      "size_bytes": 167,
+      "size_formatted": "167 B",
+      "modified_time": 1791892450.1032941,
+      "modified_time_iso": "2026-10-13T11:54:10.103294+00:00",
+      "sha256": "c658060d5407e0fb1f40800e2369ccf93214b83511c8c1ec9e0a1e0222c29e0b",
+      "status": "INTACT",
+      "error": null
+    },
+    "documents/system_policy.md": {
+      "relative_path": "documents/system_policy.md",
+      "absolute_path": "C:\\Users\\Sourang_official\\OneDrive\\Documents\\codenova\\Project 3\\sample_test_vault\\documents\\system_policy.md",
+      "size_bytes": 187,
+      "size_formatted": "187 B",
+      "modified_time": 1791892450.099783,
+      "modified_time_iso": "2026-10-13T11:54:10.099783+00:00",
+      "sha256": "77c3b33e63c907ccab1043dbe5a77e2f3501b212a5f1540cce2492c1ef086c23",
+      "status": "INTACT",
+      "error": null
+    }
+  }
+}
